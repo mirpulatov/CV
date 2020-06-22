@@ -4,7 +4,7 @@
 
 * Изначально планировал сделать пайплайн из двух сетей **RetinaNet** + **LPRNet**.
 
-RetinaNet:
+**RetinaNet:**
 
 Теорию смотрел тут *https://arxiv.org/abs/1708.02002*
 
@@ -12,7 +12,7 @@ RetinaNet:
 
 Много времени потратил на модификацию сети, но так и не смог нормально реализовать rotated bounding boxes. 
 
-LPRNet:
+**LPRNet:**
 
 Теория: *https://github.com/sirius-ai/LPRNet_Pytorch*
 
@@ -22,7 +22,7 @@ LPRNet:
 
 * Параллельно запускал обучаться бейзлайн предоставленный преподователями, но не смог побить бейзлайн на Kaggle.
 
-![submit](https://github.com/mirpulatov/CV/blob/master/contest2/screen1.png)
+![submit1](https://github.com/mirpulatov/CV/blob/master/contest2/screen1.JPG)
 
 ### Финальный submit:
 
@@ -30,4 +30,4 @@ LPRNet:
 
 Этот результат и был засчитан, как финальный.
 
-![submit](https://github.com/mirpulatov/CV/blob/master/contest2/screen2.png)
+![submit2](https://github.com/mirpulatov/CV/blob/master/contest2/screen2.JPG)
