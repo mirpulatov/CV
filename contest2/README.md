@@ -10,7 +10,7 @@
 
 Реализацию взял:  *https://github.com/fizyr/keras-retinanet*
 
-Много времени потратил на модификацию сети, но так и не смог нормально реализовать rotated bounding boxes. 
+Много времени потратил на модификацию сети RetinaNet, чтобы она работала с rotated bounding boxes. Но так и не смог добиться этого. 
 
 **LPRNet:**
 
