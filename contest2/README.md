@@ -6,9 +6,9 @@
 
 **RetinaNet:**
 
-Теорию смотрел тут *https://arxiv.org/abs/1708.02002*
+Теорию смотрел тут: *https://arxiv.org/abs/1708.02002*
 
-Реализацию взял *https://github.com/fizyr/keras-retinanet*
+Реализацию взял:  *https://github.com/fizyr/keras-retinanet*
 
 Много времени потратил на модификацию сети, но так и не смог нормально реализовать rotated bounding boxes. 
 
